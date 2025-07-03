@@ -1,6 +1,7 @@
-# React + Vite
+# Morgan Fung (Me) Portfolio Website, written in React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Created following a tutorial from PedroTech
+- [Link](https://www.youtube.com/watch?v=ifOJ0R5UQOc)
 
 Currently, two official plugins are available:
 
