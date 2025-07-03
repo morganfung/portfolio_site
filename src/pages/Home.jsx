@@ -1,6 +1,6 @@
 
 export const Home = () => {
-    return <div>
+    return <div className="min-h-screen">
         
         {/* Theme Toggle: Deal with buttons on top right (dark/light mode) */}
 
