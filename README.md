@@ -1,13 +1,11 @@
 # Morgan Fung (Me) Portfolio Website, written in React + Vite
 
+
+### TODO:
+- Figure out toastify for contact form submission, as video tutorial is old.
+- Stopped at 2:32:00
+- Add personal information instead of placeholder info
+- Footer
+
 Created following a tutorial from PedroTech
 - [Link](https://www.youtube.com/watch?v=ifOJ0R5UQOc)
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
